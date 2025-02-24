@@ -1,7 +1,7 @@
 # Spotify Mood Playlist Creator
 
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
-![Last Commit](https://img.shields.io/github/last-commit/Jakub-Horacek/spotify-mood-playlist)
+![Last Commit](https://img.shields.io/github/last-commit/Jakub-Horacek/spotify-playlist-helper)
 
 ## Overview
 
