@@ -112,7 +112,11 @@ python spotify_report_generator.py
 - This application does not require a GUI, and it operates purely via command line.
 - The report will focus on concise and relevant data, making it easy to help you or your friend create the perfect playlist.
 
-### 11. Project Structure
+### 11. Future Plans
+
+Check out my [TODO list](TODO.md) for upcoming features and improvements.
+
+### 12. Project Structure
 
 - `input-data/` - Place your Spotify data files here
 - `output/` - Generated PDF reports will be saved here
