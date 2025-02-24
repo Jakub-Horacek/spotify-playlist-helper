@@ -18,7 +18,7 @@ The application processes your Spotify data export files:
 
 To get your Spotify data:
 
-1. Go to [Spotify Privacy Settings](https://www.spotify.com/cz/account/privacy/download)
+1. Go to [Spotify Privacy Settings](https://www.spotify.com/cz/account/privacy/)
 2. Log in to your Spotify account
 3. Request your data by clicking "Request" button
 4. Wait for an email from Spotify (usually takes 1-7 days)
