@@ -114,9 +114,9 @@ python spotify_report_generator.py
 
 ### 11. Project Structure
 
-`input-data/` - Place your Spotify data files here
-`output/` - Generated PDF reports will be saved here
-`src/` - Source code
+- `input-data/` - Place your Spotify data files here
+- `output/` - Generated PDF reports will be saved here
+- `src/` - Source code
 
 - `analyzer/` - Data analysis logic
 - `report/` - PDF generation code
