@@ -116,9 +116,10 @@ python spotify_report_generator.py
 
 - `input-data/` - Place your Spotify data files here
 - `output/` - Generated PDF reports will be saved here
+- `main.py` - Main script
 - `src/` - Source code
-
-- `analyzer/` - Data analysis logic
-- `report/` - PDF generation code
-- `utils/` - Helper functions
-- `tests/` - Unit tests
+- `src/analyzer/` - Data analysis logic
+- `src/report/` - PDF generation code
+- `src/utils/` - Helper functions
+- `requirements.txt` - Dependencies
+- `README.md` - This file
